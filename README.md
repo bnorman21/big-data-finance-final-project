@@ -45,6 +45,6 @@ To accurately gauge the cost of capital environment, I pulled the monthly data o
 - I then merged the interest rate to the broader data set by performing an outer join on the forward calendar quarter date
 
 
-Analyzing the Data
+**Analyzing the Data**
 
 This is where most of the remaining work lies. Stay tuned!
