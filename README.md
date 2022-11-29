@@ -47,5 +47,4 @@ To accurately gauge the cost of capital environment, I pulled the monthly data o
 
 Analyzing the Data
 
-This is where most of the remaining work lies. I hope to explore further the "Rule of 40" -  The Rule of 40 states that a software company’s growth rate added to its profitability should equal 40
-
+This is where most of the remaining work lies. Stay tuned!
